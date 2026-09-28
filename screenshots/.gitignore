@@ -1,1 +1,39 @@
+# Screenshots
 
+This directory contains evidence of the actual implementation of the laboratory.
+
+Screenshots should be added as each phase is completed.
+
+## Naming Convention
+
+Use the following format:
+
+```text
+01-windows-server-installation.png
+02-dc01-hostname.png
+03-dc01-ip-configuration.png
+04-ad-ds-role.png
+05-ad-tools.png
+06-dns-test.png
+07-ad-users.png
+08-client-connectivity.png
+09-domain-join.png
+10-domain-user-login.png
+11-gpo-applied.png
+12-access-control.png
+13-permission-denied.png
+```
+
+## Evidence Guidelines
+
+Each screenshot should demonstrate a specific implementation step.
+
+Avoid screenshots containing:
+
+* Real passwords
+* Personal information
+* Private keys
+* Production credentials
+* Confidential company information
+
+The screenshots should represent the actual laboratory environment.
