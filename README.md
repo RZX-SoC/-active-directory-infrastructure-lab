@@ -374,42 +374,10 @@ Additional validation will be added as the laboratory evolves.
 * [x] DNS
 * [x] Domain creation
 * [x] Initial users and groups
-* [ ] Windows client
-* [ ] Domain join
-* [ ] Initial GPO
+* [x] Windows client
+* [x] Domain join
+* [x] Initial GPO
 
-### Phase 2 — Access Control
-
-* [ ] File Server
-* [ ] NTFS permissions
-* [ ] Departmental shares
-* [ ] Security groups
-* [ ] Access validation
-* [ ] Permission troubleshooting
-
-### Phase 3 — Security Hardening
-
-* [ ] Security baseline
-* [ ] Account lockout policies
-* [ ] Audit policies
-* [ ] Windows event logs
-* [ ] Privileged account management
-
-### Phase 4 — Monitoring
-
-* [ ] Monitoring server
-* [ ] SNMP
-* [ ] Zabbix
-* [ ] Alerts
-* [ ] Infrastructure dashboard
-
-### Phase 5 — Cyber Defense
-
-* [ ] Security event analysis
-* [ ] Incident simulation
-* [ ] SIEM integration
-* [ ] Detection rules
-* [ ] Incident response documentation
 
 ---
 
@@ -455,4 +423,4 @@ Cyber Defense student focused on:
 * SOC / Blue Team
 * Offensive Security
 
-GitHub: [raidenzx](https://github.com/raidenzx)
+GitHub: [raidenzx](https://github.com/RZX-SoC)
